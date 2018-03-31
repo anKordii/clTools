@@ -1,0 +1,9 @@
+stoneGeneratorTimeToRegenerate: 20
+randomTPminX: -6000
+randomTPminZ: -6000
+randomTPmaxX: 6000
+randomTPmaxZ: 6000
+rtponjoin_enable: true
+disableunloading_chunks: true
+
+

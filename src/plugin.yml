@@ -1,0 +1,15 @@
+name: clTools
+version: 0.0.5-alpha
+author: PaulekOfficial
+main: com.paulek.code.Main
+
+commands:
+  help:
+    description: Get help
+    aliases: [?, pomoc]
+  randomtp:
+    description: Make a randomtp button
+  chat:
+    description: Menage chat
+  clTools:
+    description: Author command

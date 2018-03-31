@@ -1,0 +1,18 @@
+spawn_time: 300
+
+names_gigants:
+- 'paulektoswietnydeveloper'
+
+world_name: world
+
+
+maxX: 3000
+maxZ: 3000
+
+settings:
+  health: 1000
+  skeletons: 10
+  spiders: 10
+
+drops_giant:
+- 'gold block'
