@@ -1,5 +1,6 @@
 # clTools
-Plugin na silink spigot. Dodaje randomtp, manipulację czatem, stowiarki oraz giganty!
+Plugin na silink spigot. Dodaje randomtp, manipulację czatem, ochrone przed /pl itp, /help, stowiarki oraz giganty!
+
 ##Do czego ten plugin służy?
 * Dodaje randomtp - teleportacja w losowe koordynaty,
 * Dodaje stowniarki - takie jak na mc.skkf.net
@@ -13,6 +14,7 @@ Plugin na silink spigot. Dodaje randomtp, manipulację czatem, stowiarki oraz gi
 * /randomtp - Zarządza losowymi teleportami
 * /chat - Zarzadza chatem
 * /cltools - Informacjie o autorze i wersji pluginu
+* /help - Możliwość stworzenia własnej komendy pomoc
 
 ##Błedy
 * Błedy dotyczące pluginu proszę zgłaszać tutaj: [Issues](https://github.com/PaulekOfficial/clTools/issues)
